@@ -6,7 +6,8 @@ Machine Learning project on IPL dataset
 --
 # Dataset
 * Recive the Data set from the Kaggle.
-* In the Dataset we use the (matches) and (deliveries) table to get our results 
+* In the Dataset we use the (matches) and (deliveries) table to get our results
+* Dataset Link (https://www.kaggle.com/datasets/manasgarg/ipl?datasetId=323&sortBy=voteCount)
 
 
 --
